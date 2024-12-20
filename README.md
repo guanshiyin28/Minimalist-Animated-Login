@@ -1,3 +1,10 @@
+<hr>
+<div align=center>
+  
+![Demo](https://github.com/user-attachments/assets/30860d53-43ab-48c0-b343-24c1285feabf)
+</div>
+<hr>
+
 # Simple Minimalist Animated Login
 This repository presents a simple, animated login page with a minimalist design, prioritizing a clean user experience and subtle animations.
 <hr><br>
@@ -12,13 +19,26 @@ This repository aims to provide a basic, visually appealing login page implement
 git clone https://github.com/guanshiyin28/Minimalist-Animated-Login.git
 ```
 <div align=center>
-  
-![1](https://github.com/user-attachments/assets/2f90d2e1-d310-4a25-9843-fa9fe03208f6)
-![20241220-0135-29 4823303](https://github.com/user-attachments/assets/02e042a3-2605-4138-894f-ea1d2113128a)
-
+    
+![1](https://github.com/user-attachments/assets/fdbdcc5f-b6aa-4f23-bde0-78b56dd5c9c8)
 </div>
 
+2. Open it
+```
+cd Minimalist-Animated-Login
+code .
+```
+<div align=center>
+  
+![2](https://github.com/user-attachments/assets/03ee4ca3-80be-4178-a3cc-0adefb3fc233)
+</div>
 
+3. Run & see the result
+<div align=center>
+  
+![3](https://github.com/user-attachments/assets/30860d53-43ab-48c0-b343-24c1285feabf)
+</div>
+<hr><br>
 
 <div align="center">
   <a href="https://www.instagram.com/guanshiyin_/">
