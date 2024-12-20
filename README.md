@@ -1,9 +1,7 @@
-<hr>
 <div align=center>
   
 ![Demo](https://github.com/user-attachments/assets/30860d53-43ab-48c0-b343-24c1285feabf)
 </div>
-<hr>
 
 # Simple Minimalist Animated Login
 This repository presents a simple, animated login page with a minimalist design, prioritizing a clean user experience and subtle animations.
