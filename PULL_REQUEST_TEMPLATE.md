@@ -11,6 +11,6 @@ Please describe the changes you have made.
 
 ## Checklist
 
-- [ ] I have read the [CONTRIBUTING.md](https://github.com/guanshiyin28/Minimalist-Animated-Login/blob/master/CONTRIBUTING.md)
+- [ ] I have read the [CONTRIBUTING.md](CONTRIBUTING.md)
 - [ ] Tests have been added to verify that the changes are correct
 - [ ] All local tests pass (including code style checks)
