@@ -36,7 +36,7 @@ This repository aims to provide a basic, visually appealing login page implement
 
 1. Clone this Repository
 
-```
+```bash
 git clone https://github.com/guanshiyin28/Minimalist-Animated-Login.git
 ```
 
@@ -48,7 +48,7 @@ git clone https://github.com/guanshiyin28/Minimalist-Animated-Login.git
 
 2. Open it
 
-```
+```bash
 cd Minimalist-Animated-Login
 code .
 ```
