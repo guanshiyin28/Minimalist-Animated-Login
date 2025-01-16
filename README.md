@@ -1,4 +1,4 @@
-<div align=center>
+<div align="center">
   
 ![Demo](https://github.com/user-attachments/assets/30860d53-43ab-48c0-b343-24c1285feabf)
 </div>
@@ -15,7 +15,24 @@ This repository aims to provide a basic, visually appealing login page implement
 
 <hr><br>
 
-## Steps
+## Features
+
+- Minimalist design
+- Smooth animations
+- Easy to customize
+- Responsive layout
+
+<hr><br>
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+<hr><br>
+
+## Steps to Run
 
 1. Clone this Repository
 
@@ -23,7 +40,7 @@ This repository aims to provide a basic, visually appealing login page implement
 git clone https://github.com/guanshiyin28/Minimalist-Animated-Login.git
 ```
 
-<div align=center>
+<div align="center">
 
 ![1](https://github.com/user-attachments/assets/fdbdcc5f-b6aa-4f23-bde0-78b56dd5c9c8)
 
@@ -36,17 +53,24 @@ cd Minimalist-Animated-Login
 code .
 ```
 
-<div align=center>
+<div align="center">
   
 ![2](https://github.com/user-attachments/assets/03ee4ca3-80be-4178-a3cc-0adefb3fc233)
 </div>
 
 3. Run & see the result
 
-<div align=center>
+<div align="center">
   
 ![3](https://github.com/user-attachments/assets/30860d53-43ab-48c0-b343-24c1285feabf)
 </div>
+
+<hr><br>
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 <hr><br>
 
 <div align="center">
