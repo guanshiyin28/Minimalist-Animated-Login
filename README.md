@@ -1,9 +1,9 @@
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:393E46,20:F7F7F7&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:19A7CE,20:F6F1F1&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
-
-![Header](https://github.com/user-attachments/assets/37f8de5d-312e-47af-8544-a0f85f7d3938)
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:19A7CE,100:F6F1F1&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+![Header](https://github.com/user-attachments/assets/11079afd-98cf-4c3b-952a-edf12e3a83c6)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:393E46,100:F7F7F7&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
 </div>
 
@@ -162,6 +162,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <div align="center">
   <a href="https://www.instagram.com/guanshiyin_/">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:19A7CE,20:F6F1F1&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:393E46,20:F7F7F7&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
   </a>
 </div>
