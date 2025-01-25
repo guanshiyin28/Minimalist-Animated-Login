@@ -1,7 +1,13 @@
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:7743DB,20:F0F0F0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
   
-![Header](https://github.com/user-attachments/assets/30860d53-43ab-48c0-b343-24c1285feabf)
+![Header](https://github.com/user-attachments/assets/8af3797d-2ed5-4c20-8eb7-6c1652a293c7)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:7743DB,100:F0F0F0&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+
 </div>
+
+
 
 # Simple Minimalist Animated Login
 
@@ -79,6 +85,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <div align="center">
   <a href="https://www.instagram.com/guanshiyin_/">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=20:72aae3,100:cadbf5&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=20:7743DB,100:F0F0F0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
   </a>
 </div>
