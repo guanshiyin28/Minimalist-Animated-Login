@@ -23,6 +23,8 @@ This repository aims to provide a basic, visually appealing login page implement
 
 Here is a demonstration of the main function from the `index.html`, `style.css`, and `script.js` files:
 
+### index.html
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -44,6 +46,8 @@ Here is a demonstration of the main function from the `index.html`, `style.css`,
   </body>
 </html>
 ```
+
+### style.css
 
 ```css
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap");
@@ -84,6 +88,8 @@ Here is a demonstration of the main function from the `index.html`, `style.css`,
   opacity: 0.6;
 }
 ```
+
+### script.js
 
 ```javascript
 const container = document.querySelector(".container");
