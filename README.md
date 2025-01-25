@@ -1,12 +1,3 @@
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:393E46,20:F7F7F7&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
-
-![Header](https://github.com/user-attachments/assets/11079afd-98cf-4c3b-952a-edf12e3a83c6)
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:393E46,100:F7F7F7&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
-
-</div>
-
 # Simple Minimalist Animated Login
 
 This repository presents a simple, animated login page with a minimalist design, prioritizing a clean user experience and subtle animations.
