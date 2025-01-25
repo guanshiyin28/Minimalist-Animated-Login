@@ -12,7 +12,7 @@ This repository aims to provide a basic, visually appealing login page implement
 
 ## Demonstration
 
-Here is a demonstration of the main function from the `index.html`, `style.css`, and `script.js` files:
+Here is a demonstration of the function from the `index.html`, `style.css`, and `script.js` files:
 
 ### index.html
 
